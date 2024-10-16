@@ -1,1 +1,1 @@
-![](./cloudTech.jpeg)
+![](./clout.jpeg)
