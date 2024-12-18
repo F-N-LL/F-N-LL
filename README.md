@@ -1,1 +1,1 @@
-![                                                      ](./cloudSmall.gif)
+![.                                                      .](./cloudSmall.gif)
